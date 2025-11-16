@@ -1,2 +1,4 @@
 # TASK-2
-A full-stack Student Record Management System (SRMS) using React, Node.js, Express, and PostgreSQL enables secure JWT-based access, CRUD operations for students and courses, enrollment handling, grade and attendance tracking, and basic reporting, providing an efficient platform for academic record management.
+This project is a CLI-based Student Record Management System built using Java. It provides a simple and interactive menu-driven interface to perform CRUD operations on student records.
+
+The system uses OOP concepts (classes, objects, encapsulation) and stores data in an ArrayList. It is ideal for beginners learning Java, file structure, and basic data handling.
